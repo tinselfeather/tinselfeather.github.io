@@ -1,0 +1,24 @@
+body {
+  padding: 25px;
+  background-color: white;
+  font-size: 25px;
+}
+
+span {
+}
+
+.tinsel { 
+  color: purple;
+}
+
+.max {
+  color: brown;
+}
+
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
